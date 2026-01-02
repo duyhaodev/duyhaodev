@@ -1,8 +1,4 @@
-<!-- Small GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/vcboYdN8wxwAAAAi/cat-jumping.gif" width="90" />
-</p>
-
+<!-- Banner -->
 <p align="center">
   <img src="assests/banner.jpg" style="border-radius: 50%;" />
 </p>
