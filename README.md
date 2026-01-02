@@ -25,8 +25,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I enjoy building practical web applications<br>
-  and improving my skills through real-world projects 🚀
+Final-year Software Engineering student at HCMUTE, focused on Java backend development through projects and internship experience. Seeking a Fresher/Junior Backend Java Developer role, with a long-term interest in DevOps Architecture.
 </p>
 
 <hr>
