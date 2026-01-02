@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.jpg" width="90" style="border-radius: 50%;" />
+  <img src="assests/banner.jpg" width="90" style="border-radius: 50%;" />
 </p>
 
 <!-- Title -->
