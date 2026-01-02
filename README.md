@@ -3,6 +3,10 @@
   <img src="https://media.tenor.com/vcboYdN8wxwAAAAi/cat-jumping.gif" width="90" />
 </p>
 
+<p align="center">
+  <img src="assets/banner.jpg" width="90" style="border-radius: 50%;" />
+</p>
+
 <!-- Title -->
 <h1 align="center">
   Hi, I'm Duy Hao
