@@ -24,7 +24,15 @@
 <hr>
 
 <!-- About -->
-<h3 align="center">About Me</h3>
+<h3 align="center">
+  About Me
+  <img 
+    src="https://media.tenor.com/vcboYdN8wxwAAAAi/cat-jumping.gif"
+    width="100"
+    style="vertical-align: middle;"
+    alt="dancing cat"
+  />
+</h3>
 
 <p align="center">
   Final-year Software Engineering student at HCMUTE, focused on Java backend development through projects and internship experience.<br>
