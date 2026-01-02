@@ -4,7 +4,14 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi, I'm Duy Hao 👋</h1>
+<h1 align="center">
+  Hi, I'm Duy Hao
+  <img 
+    src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+    width="30"
+    alt="wave"
+  />
+</h1>
 
 <!-- Short intro -->
 <p align="center">
@@ -20,10 +27,8 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  🎓 Final-year Software Engineering student at <b>HCMUTE</b><br>
-  💻 Focused on <b>Java backend development</b> through projects and internship experience<br>
-  🚀 Seeking a <b>Fresher/Junior Backend Java Developer</b> role<br>
-  🛠️ Long-term goal: <b>DevOps Architecture</b>
+  Final-year Software Engineering student at HCMUTE, focused on Java backend development through projects and internship experience.<br>
+  Seeking a Fresher/Junior Backend Java Developer role, with a long-term interest in DevOps Architecture.
 </p>
 
 <hr>
