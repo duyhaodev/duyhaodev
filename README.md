@@ -1,15 +1,10 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Duy+Hao+%F0%9F%91%8B;Fresher+Software+Engineer;Learning+Full-Stack+Development"
-    alt="Typing SVG"
-  />
-</p>
-
 <!-- Small GIF -->
 <p align="center">
   <img src="https://media.tenor.com/vcboYdN8wxwAAAAi/cat-jumping.gif" width="90" />
 </p>
+
+<!-- Title -->
+<h1 align="center">Hi, I'm Duy Hao 👋</h1>
 
 <!-- Short intro -->
 <p align="center">
@@ -25,7 +20,10 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-Final-year Software Engineering student at HCMUTE, focused on Java backend development through projects and internship experience. Seeking a Fresher/Junior Backend Java Developer role, with a long-term interest in DevOps Architecture.
+  🎓 Final-year Software Engineering student at <b>HCMUTE</b><br>
+  💻 Focused on <b>Java backend development</b> through projects and internship experience<br>
+  🚀 Seeking a <b>Fresher/Junior Backend Java Developer</b> role<br>
+  🛠️ Long-term goal: <b>DevOps Architecture</b>
 </p>
 
 <hr>
